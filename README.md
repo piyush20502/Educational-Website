@@ -9,7 +9,6 @@ Welcome to the Nike website, where style meets performance in the world of exclu
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
